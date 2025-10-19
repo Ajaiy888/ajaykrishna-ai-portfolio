@@ -1,0 +1,2 @@
+Mini end-to-end text classification project so you can see how Bag of Words (BoW), TF-IDF, and even a Word Cloud fit into the machine learning workflow.
+This is the basic pipeline for text classification. 
