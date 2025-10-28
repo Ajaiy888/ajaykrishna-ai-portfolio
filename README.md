@@ -28,5 +28,5 @@ Skilled in **Python, SQL, GPT-4, LangChain, Power BI, and AWS**.
 ## 💼 Let's Work Together
 I help businesses **automate workflows** and **gain insights** using AI and data analytics.
 
-📧 **Email:** ajaykrishn.professional@gmail.com   
+📧 **Email:** ajaykrishnaworkofficial@gmail.com   
 📍 Indianapolis, IN
